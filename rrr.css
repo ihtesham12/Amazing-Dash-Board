@@ -1,0 +1,73 @@
+.tan
+{
+  background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url(../images/work-4.jpg);
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+
+.kal
+{
+  background-color:#FF9900;
+  width: 100%;
+  height: 70px;
+}
+.ooo
+{
+  margin-top: 30px;
+}
+.ppp
+{
+  margin-top: 90px;
+}
+h4
+{
+  color: black;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 30px;
+  font-family: Ubuntu, sans-serif;
+
+}
+.nav-item
+{
+  color: white;
+  font-weight: bold;
+}
+.nav-link
+{
+  color: white;
+}
+.nan
+{
+  color: #FF9900;
+  font-weight: bold;
+}
+.btn2
+{
+  width: 30%;
+  color: white;
+  border:2px solid #FF9900;
+  background-color: black;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.btn2:hover
+{
+  color: black;
+  background-color: #FF9900;
+}
+.active
+{
+  background-color: black;
+}
+.active:hover{
+  color: #FF9900;
+}
+
+
+
